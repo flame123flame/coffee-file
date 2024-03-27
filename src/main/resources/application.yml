@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: default
+
+# System
+server:
+  servlet:
+    context-path: /COFFEE-FILE
+  port: 8084
+
+imagesFolder: "C:\\img-server"
